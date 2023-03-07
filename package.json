@@ -1,0 +1,23 @@
+{
+  "name": "cb-heaven-7-8",
+  "version": "1.0.0",
+  "description": "This seminar aims to expose problems when relying on the node api to fetch multiple pieces of data simultaneously, specifically focussing on the difficulty in maintaining an order when asyncronously fetching data which may not necessarily come back in the desired order.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirKevlar/cb-heaven-7-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirKevlar/cb-heaven-7-8/issues"
+  },
+  "homepage": "https://github.com/sirKevlar/cb-heaven-7-8#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
